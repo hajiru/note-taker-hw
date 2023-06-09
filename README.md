@@ -24,7 +24,7 @@ N/A
 
 ## Usage
 
-![alt text](/Assets/screencapture-take-them-notes-herokuapp-2023-06-09-12_42_34.png")
+![alt text](/Assets/screencapture-take-them-notes-herokuapp-2023-06-09-12_42_34.png)
 
 ![alt text](/Assets/screencapture-take-them-notes-herokuapp-notes-2023-06-09-12_42_14.png)
 
